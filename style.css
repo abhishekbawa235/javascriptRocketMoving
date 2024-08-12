@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url('background-02.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+#my-div{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    transition: 0.2s ease-out;
+}
+
+#my-div img{
+    width: 100px;
+}
